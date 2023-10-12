@@ -1,1 +1,10 @@
+body{
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+img {
+    width: 140px;
+    height: 145px;
+    border-radius: 45%;
+}
