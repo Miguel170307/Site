@@ -1,10 +1,15 @@
 body{
     color:black;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(#ADD8E6, #87CEEB) ;
 }
 
-img {
-    width: 140px;
-    height: 145px;
-    border-radius: 45%;
+
+
+.center 
+    img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        border: 5px solid #3333FF;
 }
