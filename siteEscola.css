@@ -1,85 +1,21 @@
-<html> 
-    <head>
-          <meta charset="UTF-8">
+body{
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(#ADD8E6, #87CEEB) ;
+}
 
-        <title>Física Todo Dia</title>
-        <link rel="stylesheet" href="siteEscola.css"
 
-    </head>
-   
-    <body style="background-color: #87CEEB; font-family: Georgia, 'Times New Roman', Times, serif; padding-left: 25px; padding-bottom: 100px;paddin-top: 25px">
-        <div class="container"</div>
-        
-        <h1 align="center"><font color="3333FF"> Física</font></h1>
-        
-        <p><font color="3333CC"</font size="5"> O que é física</font>     
-            <p style="font-size: 15px"
-            <p align="align center"> Física é uma ciência voltada ao estudo dos fenômenos naturais, baseando-se em teorias e por meio da observação e experimentação. A 
 
-palavra Física tem origem grega (“physis”) e significa natureza. A disciplina estuda, portanto, a natureza, as propriedades da matéria e as forças naturais.
-        
-                <br>
-                <br>    
+.center 
+img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        border: 5px solid #3333FF;
+}
 
-                <p style="font-size: 15px"
-            <p align="aling center">A Física Clássica é subdividida em Mecânica, Termologia, Eletromagnetismo, Óptica e Ondulatória. A Física Moderna é subdividida em 
+.container {
+    padding: 0px 20px;
 
-Relatividade e Mecânica Quântica. A equação da segunda lei de Newton,<strong> F=m⋅a</strong> , é considerada uma das fórmulas mais importantes da Física Clássica.</p>
-                    
-                        <img src="https://assets.epuzzle.info/puzzle/066/492/original.jpg" height="45%" width="35%">
+}
 
-                        <p style="font-size: 16px"><font color="3333CC"</font size="5"> O que é empuxo</font> 
-                            <p style="font-size: 15px"
-                            <p aling="aling center">Empuxo é o nome dado à força exercida por um fluido sobre um objeto mergulhado total ou parcialmente nele. Também 
-
-conhecido como Princípio de Arquimedes, o empuxo sempre apresenta direção vertical e sentido para cima. </p> 
-                           <ul>
-                            <li>
-                            
-                                <p style="font-size: 16px"
-                                <p> <font color="3333CC" <h3> Como funciona a força do empuxo</h3> </font> </p>
-                            
-                            </li>
-
-                            <p align="aling center">ㅤ ㅤO empuxo é a força que atua sobre objetos que são parcialmente ou completamente imersos em fluidos, como o ar e 
-
-água. O empuxo é uma grandeza vetorial, medida em newtons, que aponta sempre na mesma direção e no sentido oposto ao peso do corpo imerso.
-                                
-                                    <li>
-                                    
-                                        <p style="font-size: 16px"
-                                        <p> <font color="3333CC" <h3> A formúla do empuxo</h3> </font> </p>
-                                    
-                                    </li>
-                                    <p align="aling center">ㅤ ㅤE = dF . VDES . g"
-				   
-
- <br>
-				    
-                                    </ul>
-                            
-
-                <footer> 
-                   
-                    <p style="font-size: 12px"><font color="3333CC"color=> Feito por: </font>Lawara de Mello Franco e Miguel Teixeira Franco </a>
-
-                        </p>
-                        
-                    <img src="https://love.doghero.com.br/wp-content/uploads/2017/03/Galeria-Border-Collie-2.webp" height="25%" width="15%">
-
-                    <br>
-                    
-                    <li>
-                    Onde:
-
-                E = empuxo
-                dF = densidade do fluido (Kg/m3)
-                VFD = volume do fluido deslocado (m3)
-                g = aceleração da gravidade (m/s2)
-                </li>
-                </footer>
-
-            </body>
-                
-            
-</html>
